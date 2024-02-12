@@ -1,0 +1,15 @@
+h1 {
+    font-weight: bold;
+}
+
+
+.li1 {
+    font-weight: bold;
+    color: #fff;
+    background-color: rgb(202, 80, 80);
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    display: block;
+    min-width: 300px;
+    max-width: 300px;
